@@ -24,6 +24,8 @@
 
   <url type="homepage">https://github.com/nate-xyz/paleta</url>
   <url type="bugtracker">https://github.com/nate-xyz/paleta/issues</url>
+  <url type="vcs-browser">https://github.com/nate-xyz/paleta</url>
+  <url type="translate">https://github.com/nate-xyz/paleta/tree/main/po</url>
   <url type="donation">https://ko-fi.com/natexyz</url>
 
   <releases>
