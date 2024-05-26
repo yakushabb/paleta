@@ -85,11 +85,6 @@
   </custom>
   <content_rating type="oars-1.1"/>
 
-  <categories>
-    <category>Graphics</category>
-    <category>ImageProcessing</category>
-  </categories>
-
   <screenshots>
     <screenshot type="default">
       <image>https://raw.githubusercontent.com/nate-xyz/paleta/main/data/screenshots/paleta--0.png</image>
